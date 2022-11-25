@@ -7,7 +7,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://sharuth-2.github.io/project-FRT/
-**Project demo link**-
+**Project demo video link**-
 
 ## Features and Functionalities 😃
 
