@@ -8,7 +8,7 @@ This is a web based application developed for health related telugu based websit
 
 **Project Link** - https://sharuth-2.github.io/project-FRT/
 **Static web app** - https://red-island-053561e00.2.azurestaticapps.net
-**Project demo video link**-
+**Project demo video link**- https://youtu.be/eXNqoiH8EJE
 
 ## Features and Functionalities 😃
 
